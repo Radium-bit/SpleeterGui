@@ -32,3 +32,14 @@ C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.ex
 C:\Users\brady\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.pdb
 C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
 C:\Users\chris\Documents\GitHub\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csprojAssemblyReference.cache
+D:\Github\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe.config
+D:\Github\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.exe
+D:\Github\SpleeterGui\SpleeterGui\bin\Debug\SpleeterGui.pdb
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.AssemblyReference.cache
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.SuggestedBindingRedirects.cache
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Form1.resources
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.Properties.Resources.resources
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.GenerateResource.cache
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.csproj.CoreCompileInputs.cache
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.exe
+D:\Github\SpleeterGui\SpleeterGui\obj\Debug\SpleeterGui.pdb

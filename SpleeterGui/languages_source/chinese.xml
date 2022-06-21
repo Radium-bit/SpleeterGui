@@ -22,13 +22,13 @@
   <item english="Vocal + Accompaniment" control="parts_label">人声 + 伴奏</item>
   <item english="4" control="parts_btn4">4</item>
   <item english="5" control="parts_btn5">5</item>
-  <item english="Recombine (Merge output parts back together)" control="chkRecombine">重组（将输出的部分再合并到一起）</item>
+  <item english="Recombine (Merge output parts back together)" control="chkRecombine">重组分轨（将输出的部分再合并到一起）</item>
   <item english="Vocal" control="chkRPartVocal">人声</item>
   <item english="Bass" control="chkRPartBass">贝斯</item>
   <item english="Drums" control="chkRPartDrums">鼓</item>
   <item english="Piano" control="chkRPartPiano">钢琴</item>
   <item english="Other" control="chkRPartOther">其他</item>
-  <item english="Full bandwidth (16Khz High quality)" control="chkFullBandwidth">全带宽（16Khz高质量）</item>
+  <item english="Full bandwidth (16Khz High quality)" control="chkFullBandwidth">全频宽（16Khz高质量）</item>
   <item english="Save to" control="btnSaveTo">保存到</item>
   <item english="Drop your music file(s) here to begin processing" control="lblDroptext">将您的音乐文件拖放到此处开始处理</item>
   <item english="Or select music file(s)" control="btnSelectFiles">或选择音乐文件</item>
@@ -44,14 +44,14 @@
   <lang english="Working" control="working">工作中</lang>
   <lang english="Processing" control="processing">处理中</lang>
   <lang english="idle" control="idle">空闲</lang>
-  <lang english="Finished processing all songs" control="finished">完成处理所有歌曲</lang>
-  <lang english="Run complete" control="run_complete">运行完成</lang>
+  <lang english="Finished processing all songs" control="finished">所有歌曲处理完成</lang>
+  <lang english="Run complete" control="run_complete">处理完成</lang>
   <lang english="Vocal + Accompaniment" control="vocal_accompaniment">人声 + 伴奏</lang>
   <lang english="Vocal + Bass + Drums + Other" control="vocal_bass_drums_other">人声 + 贝斯 + 鼓 + 其他</lang>
   <lang english="Vocal + Bass + Drums + Piano + Other" control="vocal_bass_drums_piano_other">人声 + 贝斯 + 鼓 + 钢琴 + 其他</lang>
   <lang english="Please select an output directory" control="output_message">请选择一个输出目录</lang>
-  <lang english="Running update command" control="run_update">运行更新命令</lang>
-  <lang english="This might take a while, wait for the beep" control="run_update_b">这可能需要一段时间，请等待哔哔声</lang>
+  <lang english="Running update command" control="run_update">执行更新</lang>
+  <lang english="This might take a while, wait for the beep" control="run_update_b">这可能需要一段时间，请等待提示音</lang>
   <lang english="Version" control="version">版本</lang>
   <lang english="is available" control="is_available">可用</lang>
   <lang english="You are using the latest version" control="latest">您正在使用最新版本</lang>
